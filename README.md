@@ -21,6 +21,8 @@ This project is a Cloudflare Worker version of the popular [parrot.live](https:/
 
 The project uses Cloudflare Workers to serve ASCII art frames of an animated parrot. When you make a request using `curl`, the worker streams the animation frames to your terminal, creating a smooth animation effect.
 
+for the detail, check my [blog post](https://www.0x1f0c.dev/2025/04/06/write-your-own-parrot-as-a-service-in-cloudflare-worker/)
+
 ## Credits
 
 - Original parrot.live project by [hugomd](https://github.com/hugomd/parrot.live)
