@@ -2,6 +2,8 @@
 
 A Cloudflare Worker implementation of [parrot.live](https://github.com/hugomd/parrot.live), bringing animated party parrots to your terminal through Cloudflare's edge network.
 
+![parrot](https://camo.githubusercontent.com/cc09410d98f58c2fae0850e50383f9f466bc9151964c50a3c6e08e4251571754/68747470733a2f2f642e70722f692f6a4b6c7563302e676966)
+
 ## Try it!
 
 ```bash
